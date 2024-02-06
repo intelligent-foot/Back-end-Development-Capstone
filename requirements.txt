@@ -9,7 +9,7 @@ psycopg2-binary==2.9.3
 python-dotenv==0.20.0
 Flask-Talisman
 Flask-CORS
-Django==5.0.1
+Django==4.2.9
 
 # Runtime dependencies
 gunicorn==20.1.0
